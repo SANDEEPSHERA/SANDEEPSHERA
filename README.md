@@ -1,23 +1,23 @@
 
  Hi 👋
-  I'm AYUSH RANJAN
+  I'm SANDEEP
 --->> Aspiring Software & Web Developer
 
 🚀 About Me
 - 🎓 Currently pursuing MCA From GLA UNIVERSITY, MATHURA.
-- ✒️I have completed my bachelors of Science from LNMU University,Darbhanga(Bihar)
+- ✒️I have completed my bachelors of Science from RAJDHANI COLLEGE, University of Delhi(Delhi)
 - 💻 Learning Data Structures & Full-Stack Development
 - 👨‍💻 Open to collaborating on front-end projects
-- 📫 Reach me at: ayushranjan8757@gmail.com
+- 📫 Reach me at: sc1797569@gmail.com
 - 🌐<!-- Portfolio: [My Portfolio](https://yourusername.github.io/MyPortfolio/)-->
-- 📄 Check my Resume: [View Resume](https://docs.google.com/document/d/1JCxXlYB_t7aMnlieWl9jrrETbrFitwfV5m0rZ9GGnkk/edit?usp=sharing)
+- 📄 Check my Resume: [View Resume]([https://docs.google.com/document/d/1JCxXlYB_t7aMnlieWl9jrrETbrFitwfV5m0rZ9GGnkk/edit?usp=sharing](https://drive.google.com/file/d/10ow15dENfALBrYnMyZjWNIXs7uDRN_Ck/view?usp=drive_link))
 
 ## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-ranjan-710067329/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/axranjan87/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](ayushranjan8757@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandeep-chaudhary-b97475336/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/SandeepShera/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](sc1797569@gmail.com)
 [![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)](https://vercel.com/ayus-projects-ac870de6)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/axranjan87)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/SANDEEPSHERA)
 
 ## 🛠 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
