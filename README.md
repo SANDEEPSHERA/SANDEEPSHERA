@@ -10,7 +10,7 @@
 - 👨‍💻 Open to collaborating on front-end projects
 - 📫 Reach me at: sc1797569@gmail.com
 - 🌐 Portfolio: [My Portfolio](https://portfolio-cqvw.onrender.com)
-- 📄 Check my Resume: [View Resume]📄 Check my Resume: [View Resume](https://drive.google.com/file/d/10ow15dENfALBrYnMyZjWNIXs7uDRN_Ck/view?usp=drive_link)
+- 📄 Check my Resume: [View Resume](https://drive.google.com/file/d/10ow15dENfALBrYnMyZjWNIXs7uDRN_Ck/view?usp=drive_link)
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandeep-chaudhary-b97475336/)
