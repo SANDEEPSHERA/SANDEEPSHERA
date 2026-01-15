@@ -11,38 +11,37 @@
   <a href="https://www.linkedin.com/in/sandeep-chaudhary-b97475336/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge" />
   </a>
+  <a href="https://leetcode.com/u/SandeepShera/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" />
+  </a>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-🎓 **MCA Student** at **GLA University, Mathura**  
-🎓 **B.Sc Graduate** from **University of Delhi (Rajdhani College)**  
-💻 **MERN Stack Developer** with strong fundamentals  
+🎓 MCA Student at **GLA University, Mathura**  
+🎓 B.Sc Graduate from **Rajdhani College, University of Delhi**  
+💻 MERN Stack Developer with strong fundamentals  
 📚 Actively practicing **Data Structures & Algorithms (DSA)**  
-🧠 Interested in **Problem Solving, Clean Code & Scalable Systems**  
+🧠 Passionate about **Problem Solving & Clean Code**  
 🤝 Open to **Frontend / Full-Stack / MERN collaborations**  
 📄 **Resume:** [View Here](https://drive.google.com/file/d/1qGa2FnDmDDBcYMIljpt0kASgnmZ28fwg/view)
 
 ---
 
-## 🧠 DSA & Problem Solving
+## 🧠 DSA & Competitive Programming
 
-✔️ Arrays, Strings, Recursion  
-✔️ Linked List, Stack, Queue  
-✔️ Hashing & Two Pointer Technique  
-✔️ Binary Search & Sorting Algorithms  
-✔️ Trees & Graph Basics  
-✔️ Time & Space Complexity Analysis  
+✔ Arrays & Strings  
+✔ Recursion & Backtracking  
+✔ Linked List, Stack & Queue  
+✔ Hashing & Two-Pointer Technique  
+✔ Binary Search & Sorting  
+✔ Trees & Graph Basics  
+✔ Time & Space Complexity Analysis  
 
-📌 Platforms:  
-- LeetCode  
-- GeeksforGeeks  
-- HackerRank  
-
-> *Consistent daily problem solving mindset*
-
+📌 Practice Platforms:
+- 🔥 **LeetCode:** https://leetcode.com/u/SandeepShera/
 ---
 
 ## 🛠️ MERN Stack Skills
@@ -68,38 +67,42 @@
 ### 🧰 Other Tools
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-white?style=for-the-badge&logo=opencv)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
 
 ---
 
-## 🚀 Projects (Highlighted)
+## 🚀 Projects
 
 🔹 **Personal Portfolio Website**  
-• Built with React & Tailwind CSS  
+• React + Tailwind CSS  
 • Fully responsive & deployed  
-• Showcases skills, resume & projects  
 
-🔹 **MERN Stack Applications** *(In Progress)*  
+🔹 **MERN Stack Projects (Ongoing)**  
 • Authentication & Authorization  
-• REST APIs with Node & Express  
+• REST APIs using Node & Express  
 • MongoDB CRUD Operations  
 
 🔹 **DSA Practice Repository**  
-• Topic-wise DSA solutions in Java  
+• Topic-wise Java solutions  
 • Optimized & well-commented code  
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (Fixed ✅)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SANDEEPSHERA&show_icons=true&theme=dark" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SANDEEPSHERA&theme=dark" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SANDEEPSHERA&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SANDEEPSHERA&layout=compact&theme=dark" />
+  <img src="https://streak-stats.demolab.com?user=SANDEEPSHERA&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SANDEEPSHERA&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -116,6 +119,9 @@
   <a href="mailto:sc1797569@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
   </a>
+  <a href="https://leetcode.com/u/SandeepShera/">
+    <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
+  </a>
 </p>
 
 ---
@@ -126,5 +132,5 @@
 
 ---
 
-⭐ **Focused on MERN + DSA = Placement Ready Profile**  
-💡 *“Consistency beats talent when talent doesn’t work consistently.”*
+⭐ **MERN + DSA + Android Basics = Strong Developer Profile**  
+💡 *Build daily. Improve daily.*
