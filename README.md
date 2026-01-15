@@ -1,37 +1,130 @@
+<h1 align="center">Hi 👋, I'm Sandeep Chaudhary</h1>
+<h3 align="center">MERN Stack Developer | DSA Enthusiast | Aspiring Software Engineer 🚀</h3>
 
- Hi 👋
-  I'm SANDEEP
---->> Aspiring Software & Web Developer
-
-🚀 About Me
-- 🎓 Currently pursuing MCA From GLA UNIVERSITY, MATHURA.
-- ✒️I have completed my bachelors of Science from RAJDHANI COLLEGE, University of Delhi(Delhi)
-- 💻 Learning Data Structures & Full-Stack Development
-- 👨‍💻 Open to collaborating on front-end projects
-- 📫 Reach me at: sc1797569@gmail.com
-- 🌐 Portfolio: [My Portfolio](https://portfolio-cqvw.onrender.com)
-- 📄 Check my Resume: [View Resume](https://drive.google.com/file/d/10ow15dENfALBrYnMyZjWNIXs7uDRN_Ck/view?usp=drive_link)
-
-## 🌐 Connect with me:
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sandeep-chaudhary-b97475336/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/sandeep639786?s=21) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sc1797569@gmail.com) 
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SANDEEPSHERA&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=SANDEEPSHERA&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SANDEEPSHERA&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=SANDEEPSHERA&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <a href="https://portfolio-cqvw.onrender.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge" />
+  </a>
+  <a href="mailto:sc1797569@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/sandeep-chaudhary-b97475336/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge" />
+  </a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=SANDEEPSHERA&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
 
+🎓 **MCA Student** at **GLA University, Mathura**  
+🎓 **B.Sc Graduate** from **University of Delhi (Rajdhani College)**  
+💻 **MERN Stack Developer** with strong fundamentals  
+📚 Actively practicing **Data Structures & Algorithms (DSA)**  
+🧠 Interested in **Problem Solving, Clean Code & Scalable Systems**  
+🤝 Open to **Frontend / Full-Stack / MERN collaborations**  
+📄 **Resume:** [View Here](https://drive.google.com/file/d/1qGa2FnDmDDBcYMIljpt0kASgnmZ28fwg/view)
 
+---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) 
+## 🧠 DSA & Problem Solving
+
+✔️ Arrays, Strings, Recursion  
+✔️ Linked List, Stack, Queue  
+✔️ Hashing & Two Pointer Technique  
+✔️ Binary Search & Sorting Algorithms  
+✔️ Trees & Graph Basics  
+✔️ Time & Space Complexity Analysis  
+
+📌 Platforms:  
+- LeetCode  
+- GeeksforGeeks  
+- HackerRank  
+
+> *Consistent daily problem solving mindset*
+
+---
+
+## 🛠️ MERN Stack Skills
+
+### 🌐 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+
+### ⚙️ Backend
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs)
+
+### 🗄️ Database
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver)
+
+### 🧰 Other Tools
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net)
+![OpenCV](https://img.shields.io/badge/OpenCV-white?style=for-the-badge&logo=opencv)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+
+---
+
+## 🚀 Projects (Highlighted)
+
+🔹 **Personal Portfolio Website**  
+• Built with React & Tailwind CSS  
+• Fully responsive & deployed  
+• Showcases skills, resume & projects  
+
+🔹 **MERN Stack Applications** *(In Progress)*  
+• Authentication & Authorization  
+• REST APIs with Node & Express  
+• MongoDB CRUD Operations  
+
+🔹 **DSA Practice Repository**  
+• Topic-wise DSA solutions in Java  
+• Optimized & well-commented code  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SANDEEPSHERA&show_icons=true&theme=dark" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SANDEEPSHERA&theme=dark" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SANDEEPSHERA&layout=compact&theme=dark" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sandeep-chaudhary-b97475336/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://x.com/sandeep639786?s=21">
+    <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x"/>
+  </a>
+  <a href="mailto:sc1797569@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=SANDEEPSHERA&icon=0&color=0" />
+</p>
+
+---
+
+⭐ **Focused on MERN + DSA = Placement Ready Profile**  
+💡 *“Consistency beats talent when talent doesn’t work consistently.”*
