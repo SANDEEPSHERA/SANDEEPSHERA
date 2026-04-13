@@ -2,7 +2,7 @@
 <h3 align="center">MERN Stack Developer | DSA Enthusiast | Aspiring Software Engineer 🚀</h3>
 
 <p align="center">
-  <a href="https://portfolio-cqvw.onrender.com" target="_blank">
+  <a href="https://portfolio-26.onrender.com/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge" />
   </a>
   <a href="mailto:sc1797569@gmail.com">
